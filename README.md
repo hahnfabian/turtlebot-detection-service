@@ -22,7 +22,7 @@ The main repository for the course project can be found here: [GitHub - TurtleBo
    gunicorn --bind 0.0.0.0:5000 app:app
    ```
 2. The API will be available at `http://localhost:5000`.
-3. To detect TurtleBots, send a POST request to the `/detect endpoint with an image file attached. Example usage:
+3. To detect TurtleBots, send a POST request to the `/detect` endpoint with an image file attached. Example usage:
    ```bash
    curl -X POST -F "file=@your_image.jpg" http://localhost:5000/detect
    ```
