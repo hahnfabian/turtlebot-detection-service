@@ -40,7 +40,7 @@ The API will return a JSON response with the following structure:
         "y_center": 0.5,
         "width": 0.2,
         "height": 0.3
-        }
+      }
     }
   ]
 }
