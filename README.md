@@ -35,11 +35,11 @@ The API will return a JSON response with the following structure:
     {
       "class_id": 0,
       "confidence": 0.95,
-        "bounding_box": {
-          "x_center": 0.5,
-          "y_center": 0.5,
-          "width": 0.2,
-          "height": 0.3
+      "bounding_box": {
+        "x_center": 0.5,
+        "y_center": 0.5,
+        "width": 0.2,
+        "height": 0.3
         }
     }
   ]
