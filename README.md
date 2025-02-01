@@ -54,4 +54,4 @@ Or if there are no detections:
 
 
 ## Dataset
-The was trained on a dataset of TurtleBot images. It is available here: [Dataset Link](https://huggingface.co/datasets/fhahn/turtlebot-detection-dataset-v1).
+The model was trained on a dataset of TurtleBot images. It is available here: [Dataset Link](https://huggingface.co/datasets/fhahn/turtlebot-detection-dataset-v1).
